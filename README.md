@@ -6,4 +6,3 @@ poetry shell
 
 poetry install
 
-aabb
