@@ -6,5 +6,3 @@ poetry shell
 
 poetry install
 
-a
-b
